@@ -1,0 +1,10 @@
+name: Ultimate Crafting
+version: 1.0
+author: AdamixGamer
+main: me.adamixgamer.ultimatecrafting.UltimateCrafting
+api-version: 1.20
+commands:
+  itemcraft:
+    description: Crafts an item using custom recipe.
+    usage: /itemcraft
+    permission: ultimatecrafting.itemcraft

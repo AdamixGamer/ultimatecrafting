@@ -1,3 +1,5 @@
+Tested game versions : 1.20.4, 1.20.6, 1.21
+
 Minecraft plugin that lets you add custom recipies.
 
 This plugin is intended to be used with any gui plugin that supports running commands as player!
